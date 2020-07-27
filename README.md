@@ -3,7 +3,7 @@ Data Structure
 
 What is it?
 -----------
-Examples about how you can make a all kind of lists and oders kinds of data structure in Java
+Examples about how you can make a all kind of lists and others kinds of data structure in Java
 
 
 Operations
